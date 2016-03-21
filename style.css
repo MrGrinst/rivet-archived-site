@@ -1,12 +1,12 @@
 body {
 	background-color:#63a7d5;
 	font-family:'Roboto', serif;
-	width:60%;
+	width:80%;
 	max-width:960px;
-	min-width:300px;
+	min-width:320px;
 	margin:0 auto;
 	line-height:150%;
-	font-size:18px;
+	font-size:20px;
 	text-align:justify;
 }
 
